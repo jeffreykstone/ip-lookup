@@ -29,3 +29,6 @@ For example, in my case: https://8fda-50-238-179-130.ngrok.io/lookup
 You should now see the location (based on your IP) similar to such (my location at the time):
 
 <img width="492" alt="Screen Shot 2022-07-25 at 6 09 28 PM" src="https://user-images.githubusercontent.com/19604067/180900932-924d3d53-da44-4b51-b84e-04d193444b10.png">
+
+UML sequence diagram:
+![Sequence Diagram Client and Server Parallel Call Example (1)](https://user-images.githubusercontent.com/19604067/180911371-a9d0c029-e819-48be-afff-397118aecf77.jpg)
