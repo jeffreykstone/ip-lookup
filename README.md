@@ -14,7 +14,7 @@ Next, from the root directory run: node app.js
 
 You should see "IP Lookup service started!" in the console/terminal.
 
-Next you need to sign up for and install NGROK: https://ngrok.com/download
+Next you need to sign up for and install NGROK based on your particular platform: https://ngrok.com/download
 
 Open another terminal and from the root directory, run: ./ngrok http 5001 (or whatever port you decide to use).
 
