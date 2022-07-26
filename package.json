@@ -1,0 +1,23 @@
+{
+  "name": "ip-lookup",
+  "version": "1.0.0",
+  "description": "microservice to extract details from the user IP address ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreykstone/ip-lookup.git"
+  },
+  "author": "Gent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreykstone/ip-lookup/issues"
+  },
+  "homepage": "https://github.com/jeffreykstone/ip-lookup#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "geoip-lite": "^1.4.5"
+  }
+}
